@@ -1,18 +1,24 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/cabeza1.jpg",
-  "../assets/img/cabeza2.jpg",
-  "../assets/img/cabeza3.png",
+  "../assets/img/Sabrina_cabeza_1.png",
+  "../assets/img/Sabrina_cabeza_2.jpg",
+  "../assets/img/Sabrina_cabeza_3.png",
+  "../assets/img/Sabrina_cabeza_4.png",
+  "../assets/img/Sabrina_cabeza_5.png",
 ];
 const listaTroncos = [
- "../assets/img/tronco1.jpg",
-  "../assets/img/tronco2.jpg",
-  "../assets/img/tronco3.jpg",
+ "../assets/img/Sabrina_torso_1.png",
+  "../assets/img/Sabrina_torso_2.jpg",
+  "../assets/img/Sabrina_torso_3.png",
+  "../assets/img/Sabrina_torso_4.png",
+  "../assets/img/Sabrina_torso_5.png",
 ];
 const listaPatas = [
-  "../assets/img/patas1.jpg",
-  "../assets/img/patas2.jpg",
-  "../assets/img/patas3.png",
+  "../assets/img/Sabrina_piernas_1.png",
+  "../assets/img/Sabrina_piernas_2.jpg",
+  "../assets/img/Sabrina_piernas_3.png",
+  "../assets/img/Sabrina_piernas_4.png",
+  "../assets/img/Sabrina_piernas_5.png",
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs

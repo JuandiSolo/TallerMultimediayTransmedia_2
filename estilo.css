@@ -4,6 +4,8 @@
 html {
   box-sizing: border-box;
   height: 100%;
+  background-image: url("https://i.pinimg.com/originals/1a/0c/a5/1a0ca5723cb409294036416cbe390e7b.gif");
+  /* background-image : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fpink-glitter-background&psig=AOvVaw1qrJuQ0kr27Pk27uYZjbP8&ust=1757457785873000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj8rcueyo8DFQAAAAAdAAAAABAE"; */
 }
 
 html,
@@ -14,7 +16,9 @@ body {
 
 ::selection {
   background-color: #30cac073;
-  color: #130808;
+  color: #c5c5c5;
+  border-color: blueviolet;
+  border-radius: 2px;
 }
 
 h2 {
@@ -23,7 +27,7 @@ h2 {
 }
 
 a, a:active, a:visited, a:hover {
-  color: rgb(193, 120, 199);
+  color: rgb(0, 0, 0);
   cursor: pointer;
   text-decoration: none;
 }
@@ -60,8 +64,11 @@ a, a:active, a:visited, a:hover {
 }
 
 #boton {
-  font-size: 0.9em;
+  margin: 20px;
+  font-size: 3em;
   background-color:  rgb(193, 120, 199);
   color: white;
   cursor: pointer;
+  width: 300px;
+  height: 100px;
 }
