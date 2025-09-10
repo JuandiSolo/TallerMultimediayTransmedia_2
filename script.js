@@ -1,24 +1,24 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/Sabrina_cabeza_1.png",
-  "../assets/img/Sabrina_cabeza_2.jpg",
-  "../assets/img/Sabrina_cabeza_3.png",
-  "../assets/img/Sabrina_cabeza_4.png",
-  "../assets/img/Sabrina_cabeza_5.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_cabeza_1.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_cabeza_2.jpg",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_cabeza_3.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_cabeza_4.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_cabeza_5.png",
 ];
 const listaTroncos = [
- "../assets/img/Sabrina_torso_1.png",
-  "../assets/img/Sabrina_torso_2.jpg",
-  "../assets/img/Sabrina_torso_3.png",
-  "../assets/img/Sabrina_torso_4.png",
-  "../assets/img/Sabrina_torso_5.png",
+ "../TallerMultimediayTransmedia_2/assets/img/Sabrina_torso_1.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_torso_2.jpg",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_torso_3.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_torso_4.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_torso_5.png",
 ];
 const listaPatas = [
-  "../assets/img/Sabrina_piernas_1.png",
-  "../assets/img/Sabrina_piernas_2.jpg",
-  "../assets/img/Sabrina_piernas_3.png",
-  "../assets/img/Sabrina_piernas_4.png",
-  "../assets/img/Sabrina_piernas_5.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_piernas_1.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_piernas_2.jpg",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_piernas_3.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_piernas_4.png",
+  "../TallerMultimediayTransmedia_2/assets/img/Sabrina_piernas_5.png",
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs
